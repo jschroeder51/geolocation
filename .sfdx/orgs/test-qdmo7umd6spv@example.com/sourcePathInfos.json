@@ -1,0 +1,283 @@
+[
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519774494574,
+            "changeTime": 1519774494574,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519774494574,
+            "changeTime": 1519774494574,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519775011015,
+            "changeTime": 1519775011015,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519774494574,
+            "changeTime": 1519774494574,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519774685141,
+            "changeTime": 1519774685141,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 403,
+            "modifiedTime": 1519775010914,
+            "changeTime": 1519775010914,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1519775010927,
+            "changeTime": 1519775010927,
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1519775010939,
+            "changeTime": 1519775010939,
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1519775010949,
+            "changeTime": 1519775010949,
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1519775010959,
+            "changeTime": 1519775010959,
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4932,
+            "modifiedTime": 1519775010965,
+            "changeTime": 1519775010965,
+            "contentHash": "d7ff65dcb3dec78687d5631dd053c7c4ca251104"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4596,
+            "modifiedTime": 1519775010975,
+            "changeTime": 1519775010975,
+            "contentHash": "7c85f9442350b569799e282adf89f1badf052edc"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4592,
+            "modifiedTime": 1519775010981,
+            "changeTime": 1519775010981,
+            "contentHash": "99644587791080a44c9210de9fa1f6404f1c8884"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17636,
+            "modifiedTime": 1519775011013,
+            "changeTime": 1519775011013,
+            "contentHash": "0c54835d29f525d17b858318dcf83e601a00ce0f"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 736,
+            "modifiedTime": 1519775011017,
+            "changeTime": 1519775011017,
+            "contentHash": "caba84eea03c3f73e7d32370db523fd54eb101b1"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519775010910,
+            "changeTime": 1519775010910,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519775010908,
+            "changeTime": 1519775010908,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519775010908,
+            "changeTime": 1519775010908,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519775010955,
+            "changeTime": 1519775010955,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519775011006,
+            "changeTime": 1519775011006,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Development\\my_sfdx_project\\geolocation\\geolocation\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519775011016,
+            "changeTime": 1519775011016,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
